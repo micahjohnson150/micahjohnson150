@@ -24,8 +24,3 @@ to:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/raspberrypi/raspberrypi-original.svg" title="pi" alt="pi" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
 
-
-#
-<a href="https://github.com/micahjohnson150">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micahjohnson150&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ibrahim's GitHub Stats" />
-</a>
